@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+<title id="title">Abdullah Akram — AI systems, thoughtfully engineered</title><desc id="desc">Dark navy banner with a mint accent and a diagram connecting evidence, decisions and evaluation.</desc>
+<defs><pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#203047" stroke-width=".5"/></pattern></defs>
+<rect width="1200" height="360" rx="20" fill="#0c1422"/><rect width="1200" height="360" rx="20" fill="url(#grid)"/>
+<rect x="48" y="52" width="40" height="4" rx="2" fill="#72e3bc"/>
+<g font-family="Arial, Helvetica, sans-serif"><text x="48" y="92" fill="#72e3bc" font-size="14" letter-spacing="3">BUILD / MEASURE / REFINE</text>
+<text x="45" y="162" fill="#f0f5fc" font-size="58" font-weight="700">Abdullah Akram</text>
+<text x="48" y="209" fill="#c0cee0" font-size="25">AI systems, thoughtfully engineered.</text>
+<text x="48" y="272" fill="#879ab4" font-size="16">Retrieval · Agent workflows · Evaluation · Model infrastructure</text>
+<g fill="#132338" stroke="#334d68"><rect x="865" y="65" width="265" height="58" rx="12"/><rect x="865" y="152" width="265" height="58" rx="12"/><rect x="865" y="239" width="265" height="58" rx="12"/></g>
+<path d="M997 123V152M997 210V239" stroke="#72e3bc" stroke-width="2"/>
+<g fill="#dbe8f7" font-size="17" text-anchor="middle"><text x="997" y="101">01 / Ground in evidence</text><text x="997" y="188">02 / Bound the action</text><text x="997" y="275">03 / Measure the outcome</text></g></g></svg>
