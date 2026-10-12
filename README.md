@@ -1,6 +1,8 @@
 <div align="center">
 
-![Abdullah Akram — AI systems, thoughtfully engineered](assets/header.svg)
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=210&section=header&text=Abdullah%20Akram&fontSize=58&fontColor=F0F6FC&fontAlignY=42&desc=AI%20systems%2C%20thoughtfully%20engineered&descSize=22&descAlignY=65&descColor=F5A524&animation=fadeIn" alt="Abdullah Akram — AI systems, thoughtfully engineered" width="100%" />
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&pause=1400&color=F5A524&center=true&vCenter=true&width=640&height=36&lines=Applied+AI;Python;Reliable+systems;Evidence+%C2%B7+Decisions+%C2%B7+Failure+modes" alt="Applied AI · Python · Reliable systems" />
 
 **Building software that makes its evidence, decisions, and failure modes visible.**
 
